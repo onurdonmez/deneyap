@@ -3,7 +3,7 @@
             "id": 1,
             "baslik": "Balıklar",
             "yemekler": ["Balık Çorbası", "Levrek Izgara", "Balık Kroket"],
-            "ikon": "https://github.com/onurdonmez/deneyap/blob/2a71b30381838054f925bcd7b177d2a221dc42d4/bolum4/json/resimler/balik.svg"
+            "ikon": "https://raw.githubusercontent.com/onurdonmez/deneyap/main/bolum4/json/resimler/balik.svg"
         },
         {
             "id": 2,
