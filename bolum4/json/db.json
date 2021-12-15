@@ -1,11 +1,4 @@
-{
-    "restoran": {
-        "isim": "Deneyap Restoran",
-        "adres": "Maltepe Caddesi Canayakın Sitesi A blok No 6 34040 Bayrampaşa/ İstanbul",
-        "telefon": "0(212) 123 00 00",
-        "eposta": "istanbul@deneyap.com.tr"
-    },
-    "turler":[
+[
         {
             "id": 1,
             "baslik": "Balıklar",
@@ -72,5 +65,4 @@
             "yemekler": ["Piliç Graten", "Tavuk Sote", "Kızarmış Piliç"],
             "ikon": "https://github.com/onurdonmez/bolum4/json/resim/tavuk.svg"
         }
-    ]
-}
+]
