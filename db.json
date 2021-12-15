@@ -1,5 +1,5 @@
-[
-        {
+{
+  "turler": [      {
             "id": 1,
             "baslik": "Balıklar",
             "yemekler": ["Balık Çorbası", "Levrek Izgara", "Balık Kroket"],
@@ -65,4 +65,5 @@
             "yemekler": ["Piliç Graten", "Tavuk Sote", "Kızarmış Piliç"],
             "ikon": "https://github.com/onurdonmez/bolum4/json/resim/tavuk.svg"
         }
-]
+             ]
+}
