@@ -1,0 +1,76 @@
+{
+    "restoran": {
+        "isim": "Deneyap Restoran",
+        "adres": "Maltepe Caddesi Canayakın Sitesi A blok No 6 34040 Bayrampaşa/ İstanbul",
+        "telefon": "0(212) 123 00 00",
+        "eposta": "istanbul@deneyap.com.tr"
+    },
+    "turler":[
+        {
+            "id": 1,
+            "baslik": "Balıklar",
+            "yemekler": ["Balık Çorbası", "Levrek Izgara", "Balık Kroket"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/balik.svg"
+        },
+        {
+            "id": 2,
+            "baslik": "Burgerler",
+            "yemekler": ["Steak Burger", "Mantarlı Burger", "Tavukburger"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/burger.svg"
+        },
+        {
+            "id": 3,
+            "baslik": "Çorbalar",
+            "yemekler": ["Mercimek Çorbası", "Kelle Paça Çorbası", "Ezogelin Çorbası"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/corba.svg"
+        },
+        {
+            "id": 4,
+            "baslik": "Dünya Yemekleri",
+            "yemekler": ["Meksika", "Çin", "Fransa"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/dunya-yemekleri.svg"
+        },
+        {
+            "id": 5,
+            "baslik": "Et Yemekleri",
+            "yemekler": ["Kebaplar", "Tencere Yemekleri", "Izgaralar"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/et.svg"
+        },
+        {
+            "id": 6,
+            "baslik": "Pizzalar",
+            "yemekler": ["Pepperoni", "Deniz Ürünlü", "Margarita"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/pizza.svg"
+        },
+        {
+            "id": 7,
+            "baslik": "Salatalar",
+            "yemekler": ["Sezar Salata", "Peynirli Salata", "Akdeniz Salata"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/salata.svg"
+        },
+        {
+            "id": 8,
+            "baslik": "Sıcak İçecekler",
+            "yemekler": ["Çaylar", "Kahveler", "Aromalı Kahveler"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/sicak-icecek.svg"
+        },
+        {
+            "id": 9,
+            "baslik": "Soğuk İçecekler",
+            "yemekler": ["Gazozlar", "Ayranlar", "Sodalar"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/soguk-icecek.svg"
+        },
+        {
+            "id": 10,
+            "baslik": "Tatlılar",
+            "yemekler": ["Sütlü Tatlılar", "Şerbetli Tatlılar", "Dondurmalar"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/tatli.svg"
+        },
+        {
+            "id": 11,
+            "baslik": "Tavuklar",
+            "yemekler": ["Piliç Graten", "Tavuk Sote", "Kızarmış Piliç"],
+            "ikon": "https://github.com/onurdonmez/bolum4/json/resim/tavuk.svg"
+        }
+    ]
+}
